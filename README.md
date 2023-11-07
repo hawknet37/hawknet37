@@ -3,6 +3,16 @@
 <p align="left">
 </p>
 
+### Overview
+
+- 🔭 I’m currently working in **everywhere 🥰**
+
+- 💬 Ask me about **anything 🤣**
+
+## Donate 💲
+
+Want to Donate!? [Click Here](./DONATE.md)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hawknet37&show_icons=true&theme=dark)
 
 
