@@ -3,9 +3,9 @@
 <p align="left">
 </p>
 
-## Overview ![](https://komarev.com/ghpvc/?username=hawknet37&color=blueviolet&label=VIEWS)
+## About me ✏️ ![](https://komarev.com/ghpvc/?username=hawknet37&color=blueviolet&label=VIEWS)
 
-- 🔭 I’m currently working in **everywhere 🥰**
+- 🔭 I’m currently working in **everywhere 🖥️**
 
 - 💬 Ask me about **anything 🤣**
 
