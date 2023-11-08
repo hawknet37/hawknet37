@@ -3,19 +3,13 @@
 <p align="left">
 </p>
 
-## Overview
+## Overview ![](https://komarev.com/ghpvc/?username=hawknet37&color=blueviolet&label=VIEWS)
 
 - 🔭 I’m currently working in **everywhere 🥰**
 
 - 💬 Ask me about **anything 🤣**
 
-## Donate 💲
-
-Want to Donate!? [Click Here](./DONATE.md)
-
-
+### GitHub Stats 📈
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hawknet37&show_icons=true&theme=dark)
-
-
-![](https://komarev.com/ghpvc/?username=hawknet37&color=blueviolet&label=VIEWS)
+![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=hawknet37&theme=dark)
