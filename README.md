@@ -1,3 +1,4 @@
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 <div align="center">
   <a href="https://git.io/typing-svg" style="display: inline;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=F7F7F7&random=false&width=435&height=50&lines=Hi%2C+I'm+Thien+Nguyen" alt="Typing SVG" /> </a>
   <h3>A software engineer who knows how to install Windows 🖥️</h3>
