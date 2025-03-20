@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello,+%F0%9F%91%8B+I'm+Thien+Nguyen)
   
 <div align="center" font-family="Righteous">
-  <h3 color="white"> A software engineer who knows how to install Windows 🖥️</h3>
+  <h3 color="white"> A software engineer using Windows 🖥️</h3>
   <img align="right" alt="" height="340" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 </div>
 <br>
